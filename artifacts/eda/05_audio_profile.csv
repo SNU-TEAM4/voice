@@ -1,0 +1,9 @@
+﻿label,format_name,codec_name,sample_rate,channels,tracks
+FAKE,mp3,mp3,48000,2,1192
+FAKE,mp3,mp3,44100,2,1093
+FAKE,mp3,mp3,16000,1,584
+FAKE,wav,pcm_s16le,32000,1,293
+REAL,mp3,mp3,44100,2,289
+REAL,mp3,mp3,22050,2,3
+REAL,mp3,mp3,44100,1,3
+REAL,mp3,mp3,48000,2,1

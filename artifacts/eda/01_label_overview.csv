@@ -1,0 +1,3 @@
+﻿label,tracks,unique_groups,duration_hours,mean_duration_sec,median_duration_sec,min_duration_sec,max_duration_sec
+REAL,296,296,2.47,30.0,29.99,29.99,30.01
+FAKE,3162,296,106.67,121.44,130.86,17.96,479.96

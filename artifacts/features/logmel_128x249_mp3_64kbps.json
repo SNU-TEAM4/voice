@@ -1,0 +1,19 @@
+{
+  "shape": [
+    9784,
+    128,
+    249
+  ],
+  "dtype": "float16",
+  "sample_rate": 24000,
+  "segment_duration_sec": 10.0,
+  "n_fft": 1024,
+  "hop_length": 240,
+  "n_mels": 128,
+  "time_pool": 4,
+  "value_min_db": -80.0,
+  "value_max_db": 0.0,
+  "codec_condition": "mp3_64kbps_roundtrip",
+  "segment_id_sha256": "58bdb6bb22c127d5c1b7e18a9eb7ac4e10c2148e4607ba7b7e7756e1144996c4",
+  "segment_count": 9784
+}

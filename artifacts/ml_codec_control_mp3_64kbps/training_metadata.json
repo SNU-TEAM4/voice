@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "feature_file": "artifacts/features/handcrafted_features_mp3_64kbps.npz",
+  "feature_count": 266,
+  "train_segments": 6920,
+  "validation_segments": 1490,
+  "test_segments": 1374,
+  "selection_rule": "lowest validation track EER, then segment EER",
+  "models": {
+    "logistic_regression": {
+      "name": "Logistic Regression",
+      "parameters": {
+        "C": 1.0
+      },
+      "validation_segment_threshold": 0.42279786777402384,
+      "validation_track_threshold": 0.8496518839184034
+    },
+    "rbf_svm": {
+      "name": "RBF-SVM",
+      "parameters": {
+        "C": 10.0,
+        "gamma": "scale"
+      },
+      "validation_segment_threshold": 0.8224736880731902,
+      "validation_track_threshold": 0.8334321212857376
+    }
+  }
+}

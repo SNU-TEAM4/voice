@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "device": "mps",
+  "torch_version": "2.14.0",
+  "logmel_cache": "artifacts/features/logmel_128x249_mp3_64kbps.npy",
+  "codec_condition": "mp3_64kbps_roundtrip",
+  "epochs_requested": 15,
+  "epochs_completed": 9,
+  "patience": 4,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "optimizer": "AdamW",
+  "parameter_count": 97521,
+  "best_epoch": 5,
+  "train_sampling": "50% REAL, 50% FAKE; FAKE provider-balanced",
+  "frequency_mask_max_bands": 12,
+  "time_mask_max_bins": 25,
+  "elapsed_seconds": 37.04812433302868
+}

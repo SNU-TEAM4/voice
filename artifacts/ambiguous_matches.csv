@@ -1,0 +1,38 @@
+original_audio,echo_genre,candidate_rank,selected,known_bad,fma_track_id,fma_title,fma_artist,fma_genre_top,fma_subset,fma_license,fma_duration_sec,fma_bit_rate
+1984 - Punk Rock Opera,Rock,1,True,False,149410,1984,Punk Rock Opera,Rock,medium,Attribution,200.0,320000
+1984 - Punk Rock Opera,Rock,2,False,False,137212,1984,Punk Rock Opera,Rock,small,Attribution-NonCommercial,203.0,320000
+"Aquamarine, My Distant Blue - Nihilore",Electronic,1,True,False,134150,"Aquamarine, My Distant Blue",Nihilore,Electronic,large,Creative Commons Attribution,141.0,320000
+"Aquamarine, My Distant Blue - Nihilore",Electronic,2,False,False,140002,"Aquamarine, My Distant Blue",Nihilore,Electronic,medium,Attribution,141.0,320000
+As Nihilism Gives Way To Existentialism - Nihilore,Electronic,1,True,False,134148,As Nihilism Gives Way To Existentialism,Nihilore,Electronic,large,Creative Commons Attribution,335.0,320000
+As Nihilism Gives Way To Existentialism - Nihilore,Electronic,2,False,False,140000,As Nihilism Gives Way To Existentialism,Nihilore,Electronic,medium,Attribution,335.0,320000
+I Know His Blood - Vienna Ditto,Electronic,1,True,False,107616,I Know His Blood,Vienna Ditto,Electronic,small,Attribution,238.0,267733
+I Know His Blood - Vienna Ditto,Electronic,2,False,False,147298,I Know His Blood,Vienna Ditto,Electronic,medium,Attribution,238.0,320000
+I'm gonna try to reach - Los Llamarada,Rock,1,True,False,28763,I'm gonna try to reach,Los Llamarada,Rock,large,Attribution-NoDerivatives 3.0 International,98.0,160000
+I'm gonna try to reach - Los Llamarada,Rock,2,False,False,84389,I'm Gonna Try To Reach,Los Llamarada,Rock,large,Attribution-Noncommercial-Share Alike 3.0 United States,98.0,311129
+KOMFORT - voyageurs,Rock,1,True,False,42772,KOMFORT,voyageurs,Rock,medium,Attribution 3.0 International,306.0,320000
+KOMFORT - voyageurs,Rock,2,False,False,42786,KOMFORT,voyageurs,,large,Attribution 3.0 International,649.0,320000
+Let You're Body Move - D SMILEZ,Electronic,1,True,False,136017,Let You're Body Move,D SMILEZ,Electronic,large,Attribution,300.0,250292
+Let You're Body Move - D SMILEZ,Electronic,2,False,False,139723,Let You're Body Move,D SMILEZ,Electronic,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,300.0,250292
+Lost In The Music (D-Smilez Mix) - D SMILEZ,Electronic,1,True,False,136016,Lost In The Music (D-Smilez Mix),D SMILEZ,Electronic,large,Attribution,416.0,253639
+Lost In The Music (D-Smilez Mix) - D SMILEZ,Electronic,2,False,False,139721,Lost In The Music (D-Smilez Mix),D SMILEZ,Electronic,medium,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,416.0,253639
+Loved Ones - Rowan Box,Electronic,1,True,False,148802,Loved Ones,Rowan Box,,large,Attribution-ShareAlike,514.0,320000
+Loved Ones - Rowan Box,Electronic,2,False,True,148786,Loved Ones,Rowan Box,Electronic,large,Attribution,3682.0,320000
+Monkeystage - Ergo Phizmiz,Pop,1,True,False,22477,Monkeystage,Ergo Phizmiz,Pop,small,Attribution 3.0 United States,235.0,320000
+Monkeystage - Ergo Phizmiz,Pop,2,False,False,24025,Monkeystage,Ergo Phizmiz,,large,Attribution-Noncommercial-Share Alike 2.0 UK: England ,199.0,320000
+Reagan Shut Down the Asylums - Punk Rock Opera,Rock,1,True,False,149406,Reagan Shut Down the Asylums,Punk Rock Opera,Rock,medium,Attribution,154.0,320000
+Reagan Shut Down the Asylums - Punk Rock Opera,Rock,2,False,False,137202,Reagan Shut Down the Asylums,Punk Rock Opera,Rock,medium,Attribution-NonCommercial,165.0,320000
+Sea Monster - The Crypts!,Rock,1,True,False,131122,Sea Monster,The Crypts!,Rock,medium,Attribution,120.0,320000
+Sea Monster - The Crypts!,Rock,2,False,False,131179,Sea Monster,The Crypts!,Rock,medium,Attribution,172.0,320000
+Strongbreeze - Rowan Box,Electronic,1,True,False,148804,Strongbreeze,Rowan Box,,large,Attribution-ShareAlike,532.0,320000
+Strongbreeze - Rowan Box,Electronic,2,False,True,148788,Strongbreeze,Rowan Box,Electronic,large,Attribution,3682.0,320000
+Take Your Fingers - Michael Fakesch,Electronic,1,True,False,33594,Take Your Fingers,Michael Fakesch,Electronic,large,Attribution-NoDerivatives 3.0 International,206.0,256000
+Take Your Fingers - Michael Fakesch,Electronic,2,False,False,96458,Take Your Fingers,Michael Fakesch,,large,Attribution-Noncommercial-Share Alike 3.0 Netherlands,200.0,320000
+Untitled - Fatal Injection,Rock,1,True,False,140149,Untitled,Fatal Injection,Rock,large,Attribution,192.0,320000
+Untitled - Fatal Injection,Rock,2,False,False,140150,Untitled,Fatal Injection,Rock,large,Attribution,278.0,320000
+Untitled - Fatal Injection,Rock,3,False,False,140152,Untitled,Fatal Injection,Rock,large,Attribution,146.0,320000
+Untitled - Fatal Injection,Rock,4,False,False,140153,Untitled,Fatal Injection,Rock,large,Attribution,272.0,320000
+Untitled - Fatal Injection,Rock,5,False,False,140154,Untitled,Fatal Injection,Rock,large,Attribution,184.0,320000
+WET DREAMS - voyageurs,Rock,1,True,False,42770,WET DREAMS,voyageurs,Rock,medium,Attribution 3.0 International,261.0,320000
+WET DREAMS - voyageurs,Rock,2,False,False,42775,WET DREAMS,voyageurs,Rock,medium,Attribution 3.0 International,148.0,320000
+Глазами Детей - Чокнутый Пропеллер,Rock,1,True,False,98077,Глазами Детей,Чокнутый Пропеллер,Rock,small,Attribution,236.0,320000
+Глазами Детей - Чокнутый Пропеллер,Rock,2,False,False,102184,Глазами Детей,Чокнутый Пропеллер,Rock,medium,Attribution,236.0,320000

@@ -1,0 +1,115 @@
+{
+  "seed": 42,
+  "holdout_generators": [
+    "musicgen",
+    "suno"
+  ],
+  "rule": {
+    "train": "REAL + FAKE excluding holdout generator in train split",
+    "validation": "REAL + FAKE excluding holdout generator in validation split",
+    "test": "REAL + holdout-generator FAKE in test split",
+    "selection": "lowest validation track EER, then segment EER"
+  },
+  "runs": [
+    {
+      "condition": "Original encoding",
+      "holdout_generator": "musicgen",
+      "model": "Logistic Regression",
+      "selected_parameters": {
+        "C": 0.1
+      },
+      "train_segments": 6510,
+      "validation_segments": 1400,
+      "test_segments": 218,
+      "model_path": "artifacts/unseen_generator/models/original__logistic_regression__holdout_musicgen.joblib"
+    },
+    {
+      "condition": "Original encoding",
+      "holdout_generator": "musicgen",
+      "model": "RBF-SVM",
+      "selected_parameters": {
+        "C": 10.0,
+        "gamma": "scale"
+      },
+      "train_segments": 6510,
+      "validation_segments": 1400,
+      "test_segments": 218,
+      "model_path": "artifacts/unseen_generator/models/original__rbf_svm__holdout_musicgen.joblib"
+    },
+    {
+      "condition": "Original encoding",
+      "holdout_generator": "suno",
+      "model": "Logistic Regression",
+      "selected_parameters": {
+        "C": 1.0
+      },
+      "train_segments": 6278,
+      "validation_segments": 1352,
+      "test_segments": 252,
+      "model_path": "artifacts/unseen_generator/models/original__logistic_regression__holdout_suno.joblib"
+    },
+    {
+      "condition": "Original encoding",
+      "holdout_generator": "suno",
+      "model": "RBF-SVM",
+      "selected_parameters": {
+        "C": 10.0,
+        "gamma": "scale"
+      },
+      "train_segments": 6278,
+      "validation_segments": 1352,
+      "test_segments": 252,
+      "model_path": "artifacts/unseen_generator/models/original__rbf_svm__holdout_suno.joblib"
+    },
+    {
+      "condition": "Common MP3 64kbps",
+      "holdout_generator": "musicgen",
+      "model": "Logistic Regression",
+      "selected_parameters": {
+        "C": 0.1
+      },
+      "train_segments": 6510,
+      "validation_segments": 1400,
+      "test_segments": 218,
+      "model_path": "artifacts/unseen_generator/models/mp3_64kbps__logistic_regression__holdout_musicgen.joblib"
+    },
+    {
+      "condition": "Common MP3 64kbps",
+      "holdout_generator": "musicgen",
+      "model": "RBF-SVM",
+      "selected_parameters": {
+        "C": 1.0,
+        "gamma": "scale"
+      },
+      "train_segments": 6510,
+      "validation_segments": 1400,
+      "test_segments": 218,
+      "model_path": "artifacts/unseen_generator/models/mp3_64kbps__rbf_svm__holdout_musicgen.joblib"
+    },
+    {
+      "condition": "Common MP3 64kbps",
+      "holdout_generator": "suno",
+      "model": "Logistic Regression",
+      "selected_parameters": {
+        "C": 10.0
+      },
+      "train_segments": 6278,
+      "validation_segments": 1352,
+      "test_segments": 252,
+      "model_path": "artifacts/unseen_generator/models/mp3_64kbps__logistic_regression__holdout_suno.joblib"
+    },
+    {
+      "condition": "Common MP3 64kbps",
+      "holdout_generator": "suno",
+      "model": "RBF-SVM",
+      "selected_parameters": {
+        "C": 10.0,
+        "gamma": "scale"
+      },
+      "train_segments": 6278,
+      "validation_segments": 1352,
+      "test_segments": 252,
+      "model_path": "artifacts/unseen_generator/models/mp3_64kbps__rbf_svm__holdout_suno.joblib"
+    }
+  ]
+}

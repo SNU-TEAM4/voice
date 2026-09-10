@@ -1,0 +1,7 @@
+﻿check,value,passed
+tested_profiles,39,True
+decode_failures,0,True
+wrong_output_length,0,True
+non_finite_waveforms,0,True
+silent_waveforms,0,True
+total_padding_samples,0,True

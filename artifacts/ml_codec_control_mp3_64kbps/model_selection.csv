@@ -1,0 +1,7 @@
+﻿model,model_slug,parameters,validation_segment_eer,validation_track_eer,validation_segment_threshold,validation_track_threshold,selected
+Logistic Regression,logistic_regression,"{""C"": 0.1}",0.1855815224818915,0.08490087597971419,0.2742687225408855,0.6629110742483827,False
+Logistic Regression,logistic_regression,"{""C"": 1.0}",0.18410550772174386,0.08490087597971419,0.42279786777402384,0.8496518839184034,True
+Logistic Regression,logistic_regression,"{""C"": 10.0}",0.18668853355200218,0.08697556477639468,0.5418564324803601,0.9336642539115044,False
+RBF-SVM,rbf_svm,"{""C"": 1.0, ""gamma"": ""scale""}",0.14713680470138035,0.11468418626094976,0.43747339441996774,0.609237450731439,False
+RBF-SVM,rbf_svm,"{""C"": 10.0, ""gamma"": ""scale""}",0.1707803744704114,0.08801290917473492,0.8224736880731902,0.8334321212857376,True
+RBF-SVM,rbf_svm,"{""C"": 10.0, ""gamma"": 0.001}",0.15489954899548997,0.11260949746426926,0.5249172267779864,0.7973820742424641,False

@@ -1,0 +1,7 @@
+﻿split,label,tracks,unique_groups,duration_hours
+train,REAL,207,207,1.72
+train,FAKE,2237,207,76.17
+validation,REAL,45,45,0.38
+validation,FAKE,482,45,15.86
+test,REAL,44,44,0.37
+test,FAKE,443,44,14.64

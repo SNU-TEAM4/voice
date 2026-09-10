@@ -1,0 +1,4 @@
+path_in_dataset,original_audio,generator,type,genre,description,duration,exclusion_reason
+TTA/musicgen/_musicgen_TTA_001.wav,В Наших Сердцах - Чокнутый Пропеллер,musicgen,TTA,Rock,"russian-punk, breakneck, snotty, gang-shouts, lo-fi, abrasive, minor, sweaty, rebellious, chaotic",30.0,duplicate_path_with_conflicting_original_audio
+TTA/musicgen/_musicgen_TTA_001.wav,Глазами Детей - Чокнутый Пропеллер,musicgen,TTA,Rock,"russian-punk, breakneck, snotty, gang-shouts, lo-fi, abrasive, rebellious, sweaty, chaotic, raw",30.0,duplicate_path_with_conflicting_original_audio
+TTA/musicgen/_musicgen_TTA_001.wav,Кортни Лав - Чокнутый Пропеллер,musicgen,TTA,Rock,"russian-punk, sarcastic, fast, noisy, bratty, gang-shouts, lo-fi, chaotic, snotty, rebellious",30.0,duplicate_path_with_conflicting_original_audio

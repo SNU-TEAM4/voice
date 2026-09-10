@@ -1,0 +1,57 @@
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.cache/
+.mpl-cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Original/local audio datasets
+data/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.zip
+
+# Large generated features and trained model binaries
+*.npy
+*.npz
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# Generated manifests containing local absolute paths
+artifacts/track_manifest.csv
+artifacts/segment_manifest.csv
+artifacts/track_audio_validation.csv
+artifacts/fma_real_validation.csv
+artifacts/real_track_map.csv
+
+# Generated per-sample predictions and private external-audio tests
+artifacts/**/segment_predictions.csv
+artifacts/**/track_predictions.csv
+artifacts/**/predictions.csv
+artifacts/external_predictions/
+artifacts/audio_eda/previews/
+
+# Logs
+*.log

@@ -1,0 +1,4 @@
+﻿group_id,original_audio,label,generator,segment_id,start_sec,decoded_samples,padding_samples,preview_path
+grp_040350d9b464,KOMFORT - voyageurs,REAL,human,real_042772_seg01,0.0,240000,0,artifacts/audio_eda/previews/01_REAL_human.wav
+grp_040350d9b464,KOMFORT - voyageurs,FAKE,musicgen,fake_e01f110da69177d6_seg01,0.0,240000,0,artifacts/audio_eda/previews/02_FAKE_musicgen.wav
+grp_040350d9b464,KOMFORT - voyageurs,FAKE,suno,fake_847628e6f33e1155_seg01,0.0,240000,0,artifacts/audio_eda/previews/03_FAKE_suno.wav

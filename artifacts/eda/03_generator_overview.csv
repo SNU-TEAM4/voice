@@ -1,0 +1,13 @@
+﻿generator,tracks,unique_groups,duration_hours,median_duration_sec,formats,sample_rates,channels
+elevenlabs,300,150,15.75,180.04,mp3,44100,2
+suno,300,151,14.94,179.06,mp3,48000,2
+udio,300,151,10.91,130.86,mp3,48000,2
+diffrhythm,299,289,10.13,122.0,mp3,44100,2
+brev,298,150,15.78,185.76,mp3,48000,2
+acestep,294,293,5.42,67.29,mp3,48000,2
+musicgen,293,293,2.44,29.94,wav,32000,1
+audioldm,292,292,2.49,30.72,mp3,16000,1
+songgen,292,290,2.29,29.68,mp3,16000,1
+stableaudio,194,185,9.7,180.0,mp3,44100,2
+producer,151,150,7.71,195.42,mp3,44100,2
+mubert,149,148,9.12,240.0,mp3,44100,2

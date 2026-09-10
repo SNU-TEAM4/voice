@@ -1,0 +1,8 @@
+﻿check,value,passed
+total_segments,9784,True
+duplicate_segment_ids,0,True
+tracks_without_segments,0,True
+tracks_outside_1_to_3_segments,0,True
+segment_boundary_errors,0,True
+groups_in_multiple_splits,0,True
+max_overlap_seconds,0.005715,True

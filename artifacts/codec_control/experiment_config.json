@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "common_codec": "MP3",
+  "common_bitrate_kbps": 64,
+  "common_sample_rate": 24000,
+  "common_channels": 1,
+  "metadata_features": [
+    "format_name",
+    "codec_name",
+    "sample_rate",
+    "channels",
+    "estimated_kbps"
+  ],
+  "metadata_selected_C": 0.1
+}
