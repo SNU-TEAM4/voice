@@ -1,0 +1,11 @@
+﻿track_sample_id,original_audio,label,label_id,genre,generator,split,segment_count,lr_score,lr_pred,svm_score,svm_pred
+sample_02494,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,3,0.0115256438020472,0,0.3850908313170074,0
+sample_03089,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,elevenlabs,test,3,0.2022320284820572,0,0.4379971475890801,0
+sample_03135,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,elevenlabs,test,3,0.4303410084430545,0,0.5056972560694407,0
+sample_02538,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,3,0.0205935476408398,0,0.5207636542549158,0
+sample_02643,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,3,0.6901308595929408,1,0.6194295993493921,0
+sample_02165,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,suno,test,3,0.562509702846833,0,0.6455843092385655,0
+sample_02646,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,3,0.7111141166938685,1,0.6559821735510546,0
+sample_02576,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,3,0.7611610061492601,1,0.6672806092963803,0
+sample_03133,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,elevenlabs,test,3,0.5419933887846151,0,0.69450561566543,0
+sample_02444,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,3,0.3840520933858198,0,0.6996987369845549,0

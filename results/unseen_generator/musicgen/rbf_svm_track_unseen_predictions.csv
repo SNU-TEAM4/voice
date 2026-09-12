@@ -1,0 +1,91 @@
+﻿track_sample_id,original_audio,label,label_id,genre,generator,split,segment_count,score,threshold,pred
+sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,REAL,0,Electronic,,test,3,0.7710563376307474,0.8701743820784932,0
+sample_00004,3 am West End - statusq,REAL,0,Electronic,,test,3,0.6932239873271294,0.8701743820784932,0
+sample_00005,5 (Lexington) - Isle of Pine,REAL,0,Rock,,test,3,0.2894631419324056,0.8701743820784932,0
+sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,3,0.9590916012269601,0.8701743820784932,1
+sample_00028,Bizzy - The Tleilaxu Music Machine,REAL,0,Electronic,,test,3,0.1765161693949995,0.8701743820784932,0
+sample_00045,Dance Harder - Three Chain Links,REAL,0,Electronic,,test,3,0.5783222300828536,0.8701743820784932,0
+sample_00049,Different Day - First,REAL,0,Pop,,test,3,0.9393038888316605,0.8701743820784932,1
+sample_00056,El Burrito - Malaventura,REAL,0,Pop,,test,3,0.49135755485526816,0.8701743820784932,0
+sample_00061,End titles - Itsensäsyöjät,REAL,0,Electronic,,test,3,0.6960854407699587,0.8701743820784932,0
+sample_00079,Fuckaboing - RoccoW,REAL,0,Electronic,,test,3,0.9121951189692755,0.8701743820784932,1
+sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",REAL,0,Rock,,test,3,0.11563802345724956,0.8701743820784932,0
+sample_00089,"Hungry - Oh Yeah, the Future",REAL,0,Pop,,test,3,0.05426048830844099,0.8701743820784932,0
+sample_00090,I - Inflammator,REAL,0,Rock,,test,3,0.6409604975065067,0.8701743820784932,0
+sample_00115,L'arbre - Salmo,REAL,0,Rock,,test,3,0.4811390390150989,0.8701743820784932,0
+sample_00116,LIQUID SKULLS - voyageurs,REAL,0,Rock,,test,3,0.01027458320803932,0.8701743820784932,0
+sample_00121,Leaving Here - Mod Fun,REAL,0,Rock,,test,3,0.6495182666841597,0.8701743820784932,0
+sample_00122,Let You're Body Move - D SMILEZ,REAL,0,Electronic,,test,3,0.7392446136768508,0.8701743820784932,0
+sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,3,0.9497387865010367,0.8701743820784932,1
+sample_00132,Love Dream - The Zombie Dandies,REAL,0,Rock,,test,3,0.10257620040099642,0.8701743820784932,0
+sample_00139,Moja Krypta - AmortE,REAL,0,Rock,,test,3,0.9022648136261889,0.8701743820784932,1
+sample_00144,Motocross Mania - Monroeville Music Center,REAL,0,Pop,,test,3,0.43190105126187933,0.8701743820784932,0
+sample_00146,Music For an Underground Circu - Ergo Phizmiz,REAL,0,Pop,,test,3,0.49722958487664987,0.8701743820784932,0
+sample_00154,Night Owl - Broke For Free,REAL,0,Electronic,,test,3,0.09472338105689049,0.8701743820784932,0
+sample_00171,Pista Afuera - Epstein,REAL,0,Electronic,,test,3,0.6379856825765516,0.8701743820784932,0
+sample_00174,Production - Bird Names,REAL,0,Pop,,test,3,0.05110306484425542,0.8701743820784932,0
+sample_00176,Puertas de Fuego - Guerra de Cerdos,REAL,0,Rock,,test,3,0.15656219153178613,0.8701743820784932,0
+sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,3,0.9511819669521158,0.8701743820784932,1
+sample_00180,Resistentialism - Nihilore,REAL,0,Electronic,,test,3,0.8550258712061564,0.8701743820784932,0
+sample_00195,Set Fire to Creation - Nihilore,REAL,0,Electronic,,test,3,0.9023255152428535,0.8701743820784932,1
+sample_00196,Sfogare Il Dissenso - Deiezione HC,REAL,0,Rock,,test,3,0.006632585793903229,0.8701743820784932,0
+sample_00198,She Works / Tepid Waters - Bird Names,REAL,0,Pop,,test,3,0.019602876235270062,0.8701743820784932,0
+sample_00206,Something Dirty - Ergo Phizmiz,REAL,0,Pop,,test,3,0.6581325647384205,0.8701743820784932,0
+sample_00207,Sonzis FM - Pipe Choir,REAL,0,Rock,,test,3,0.47106710774477906,0.8701743820784932,0
+sample_00216,Stuttgart - Portrayal,REAL,0,Rock,,test,3,0.3088274291741185,0.8701743820784932,0
+sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,REAL,0,Electronic,,test,3,0.4646753224041418,0.8701743820784932,0
+sample_00223,Terve Teille - Чокнутый Пропеллер,REAL,0,Rock,,test,3,0.17998142969988495,0.8701743820784932,0
+sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,REAL,0,Electronic,,test,3,0.3519538930111678,0.8701743820784932,0
+sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",REAL,0,Pop,,test,3,0.001501276575598413,0.8701743820784932,0
+sample_00241,The Secret Garden - Barbarix,REAL,0,Electronic,,test,3,0.8319498404911906,0.8701743820784932,0
+sample_00252,Troubles I've seen - Malaventura,REAL,0,Pop,,test,3,0.397828033524029,0.8701743820784932,0
+sample_00253,Ugh! Humans Can Join - Mystery Mammal,REAL,0,Electronic,,test,3,0.6592574129408971,0.8701743820784932,0
+sample_00257,Untitled - Fatal Injection,REAL,0,Rock,,test,3,0.2402813868186144,0.8701743820784932,0
+sample_00270,Where Is Everything - The Moi Non Plus,REAL,0,Rock,,test,3,0.29541116632509334,0.8701743820784932,0
+sample_00271,Who Loves You Dear - Mink Lungs,REAL,0,Rock,,test,3,0.32983923295140877,0.8701743820784932,0
+sample_00279,Yurtology - Michett,REAL,0,Electronic,,test,3,0.08736490471468696,0.8701743820784932,0
+sample_03167,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,FAKE,1,Electronic,musicgen,test,3,0.28574158503002095,0.8701743820784932,0
+sample_03169,3 am West End - statusq,FAKE,1,Electronic,musicgen,test,3,0.6666529947605585,0.8701743820784932,0
+sample_03171,5 (Lexington) - Isle of Pine,FAKE,1,Rock,musicgen,test,3,0.9021394654151041,0.8701743820784932,1
+sample_03183,Attention - Pete Prodoehl,FAKE,1,Rock,musicgen,test,3,0.9142062283893572,0.8701743820784932,1
+sample_03193,Bizzy - The Tleilaxu Music Machine,FAKE,1,Electronic,musicgen,test,3,0.4768558883395883,0.8701743820784932,0
+sample_03209,Dance Harder - Three Chain Links,FAKE,1,Electronic,musicgen,test,3,0.5879723158828022,0.8701743820784932,0
+sample_03214,Different Day - First,FAKE,1,Pop,musicgen,test,3,0.26932045761635853,0.8701743820784932,0
+sample_03222,El Burrito - Malaventura,FAKE,1,Pop,musicgen,test,3,0.6585077804345187,0.8701743820784932,0
+sample_03227,End titles - Itsensäsyöjät,FAKE,1,Electronic,musicgen,test,3,0.409231933785467,0.8701743820784932,0
+sample_03244,Fuckaboing - RoccoW,FAKE,1,Electronic,musicgen,test,3,0.9932929570254799,0.8701743820784932,1
+sample_03253,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,musicgen,test,3,0.5436553527713645,0.8701743820784932,0
+sample_03255,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,musicgen,test,3,0.9713082947299275,0.8701743820784932,1
+sample_03267,I - Inflammator,FAKE,1,Rock,musicgen,test,3,0.7986397298294436,0.8701743820784932,0
+sample_03287,Leaving Here - Mod Fun,FAKE,1,Rock,musicgen,test,3,0.5715991073047596,0.8701743820784932,0
+sample_03288,Let's Start Out Slow - RoccoW,FAKE,1,Electronic,musicgen,test,3,0.9246708851632689,0.8701743820784932,1
+sample_03290,Let You're Body Move - D SMILEZ,FAKE,1,Electronic,musicgen,test,3,0.9405125107055489,0.8701743820784932,1
+sample_03295,LIQUID SKULLS - voyageurs,FAKE,1,Rock,musicgen,test,3,0.7634441866483795,0.8701743820784932,0
+sample_03301,Love Dream - The Zombie Dandies,FAKE,1,Rock,musicgen,test,3,0.05367950350936498,0.8701743820784932,0
+sample_03302,L'arbre - Salmo,FAKE,1,Rock,musicgen,test,3,0.14857777393030636,0.8701743820784932,0
+sample_03308,Moja Krypta - AmortE,FAKE,1,Rock,musicgen,test,3,0.6037577288083866,0.8701743820784932,0
+sample_03313,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,musicgen,test,3,0.379957988103477,0.8701743820784932,0
+sample_03315,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,musicgen,test,3,0.5503704333233558,0.8701743820784932,0
+sample_03324,Night Owl - Broke For Free,FAKE,1,Electronic,musicgen,test,3,0.6288919814263473,0.8701743820784932,0
+sample_03342,Pista Afuera - Epstein,FAKE,1,Electronic,musicgen,test,3,0.841149904015006,0.8701743820784932,0
+sample_03345,Production - Bird Names,FAKE,1,Pop,musicgen,test,3,0.6545870042209881,0.8701743820784932,0
+sample_03347,Puertas de Fuego - Guerra de Cerdos,FAKE,1,Rock,musicgen,test,3,0.6477962087312964,0.8701743820784932,0
+sample_03350,Realize Me - Jim Rooster,FAKE,1,Electronic,musicgen,test,3,0.8731802653269214,0.8701743820784932,1
+sample_03352,Resistentialism - Nihilore,FAKE,1,Electronic,musicgen,test,3,0.2790922790238655,0.8701743820784932,0
+sample_03367,Set Fire to Creation - Nihilore,FAKE,1,Electronic,musicgen,test,3,0.6357813758072641,0.8701743820784932,0
+sample_03368,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,musicgen,test,3,0.7097565551495988,0.8701743820784932,0
+sample_03371,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,musicgen,test,3,0.042542270702813856,0.8701743820784932,0
+sample_03379,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,musicgen,test,3,0.8410760719226863,0.8701743820784932,0
+sample_03381,Sonzis FM - Pipe Choir,FAKE,1,Rock,musicgen,test,3,0.6824121101021013,0.8701743820784932,0
+sample_03390,Stuttgart - Portrayal,FAKE,1,Rock,musicgen,test,3,0.9115040748416652,0.8701743820784932,1
+sample_03391,Support Me in This Moment That I'm About To Lose Heart - Nihilore,FAKE,1,Electronic,musicgen,test,3,0.47470057376285585,0.8701743820784932,0
+sample_03396,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,musicgen,test,3,0.3745954559706394,0.8701743820784932,0
+sample_03397,The Adventures Of Roderick Random - Maps And Diagrams,FAKE,1,Electronic,musicgen,test,3,0.6181173416885278,0.8701743820784932,0
+sample_03411,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",FAKE,1,Pop,musicgen,test,3,0.9261339264228899,0.8701743820784932,1
+sample_03416,The Secret Garden - Barbarix,FAKE,1,Electronic,musicgen,test,3,0.21907463112920453,0.8701743820784932,0
+sample_03425,Troubles I've seen - Malaventura,FAKE,1,Pop,musicgen,test,3,0.6581835603538354,0.8701743820784932,0
+sample_03427,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,musicgen,test,3,0.8364825578449452,0.8701743820784932,0
+sample_03431,Untitled - Fatal Injection,FAKE,1,Rock,musicgen,test,3,0.2624626484476061,0.8701743820784932,0
+sample_03443,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,musicgen,test,3,0.2875295894790021,0.8701743820784932,0
+sample_03444,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,musicgen,test,3,0.29078590765438067,0.8701743820784932,0
+sample_03451,Yurtology - Michett,FAKE,1,Electronic,musicgen,test,3,0.7199144702166532,0.8701743820784932,0

@@ -1,0 +1,7 @@
+﻿research_question,key_result,interpretation
+RQ1 In-domain,Track AUC: SVM 0.9644 vs CNN 0.9772,Clean/in-domain에서는 Log-Mel CNN이 더 높은 판별 성능을 보임.
+RQ1 Track aggregation,두 모델 모두 Segment보다 Track aggregation에서 AUC/EER 개선,여러 10초 구간의 점수 평균이 곡 단위 판단을 안정화함.
+RQ2 MusicGen unseen,AUC: SVM 0.6123 vs CNN 0.8681,CNN이 MusicGen generator shift에서 SVM보다 훨씬 높은 일반화 성능.
+RQ2 Udio unseen,AUC: SVM 0.8542 vs CNN 0.8227,Udio에서는 AUC 기준 SVM이 약간 높아 모델 우위가 generator별로 달라짐.
+RQ3 MP3 64k,AUC: SVM 0.9062 vs CNN 0.8256,CNN은 clean 성능은 높지만 codec shift에는 SVM보다 더 민감함.
+Overall,High in-domain performance != distribution-shift robustness,미지 생성기와 codec 압축을 별도 robustness 축으로 평가해야 함.

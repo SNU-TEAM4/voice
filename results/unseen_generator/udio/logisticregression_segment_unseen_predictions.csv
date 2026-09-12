@@ -1,0 +1,280 @@
+﻿segment_id,track_sample_id,original_audio,label,label_id,genre,generator,split,score,threshold,pred
+seg_000009,sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,REAL,0,Electronic,,test,0.02224785663307345,0.6651278506719375,0
+seg_000010,sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,REAL,0,Electronic,,test,0.8060519421985802,0.6651278506719375,1
+seg_000011,sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,REAL,0,Electronic,,test,0.1348322484094955,0.6651278506719375,0
+seg_000012,sample_00004,3 am West End - statusq,REAL,0,Electronic,,test,0.01292220776651417,0.6651278506719375,0
+seg_000013,sample_00004,3 am West End - statusq,REAL,0,Electronic,,test,0.6429657454287456,0.6651278506719375,0
+seg_000014,sample_00004,3 am West End - statusq,REAL,0,Electronic,,test,0.07230102141514969,0.6651278506719375,0
+seg_000015,sample_00005,5 (Lexington) - Isle of Pine,REAL,0,Rock,,test,0.0002440616544929874,0.6651278506719375,0
+seg_000016,sample_00005,5 (Lexington) - Isle of Pine,REAL,0,Rock,,test,0.007891544070544413,0.6651278506719375,0
+seg_000017,sample_00005,5 (Lexington) - Isle of Pine,REAL,0,Rock,,test,0.002185611321986414,0.6651278506719375,0
+seg_000063,sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,0.994177520063382,0.6651278506719375,1
+seg_000064,sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,0.9954908073417148,0.6651278506719375,1
+seg_000065,sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,0.8499791591560144,0.6651278506719375,1
+seg_000084,sample_00028,Bizzy - The Tleilaxu Music Machine,REAL,0,Electronic,,test,0.023165714573600515,0.6651278506719375,0
+seg_000085,sample_00028,Bizzy - The Tleilaxu Music Machine,REAL,0,Electronic,,test,0.036346660329198394,0.6651278506719375,0
+seg_000086,sample_00028,Bizzy - The Tleilaxu Music Machine,REAL,0,Electronic,,test,0.0005660417232935526,0.6651278506719375,0
+seg_000135,sample_00045,Dance Harder - Three Chain Links,REAL,0,Electronic,,test,0.05457841112697996,0.6651278506719375,0
+seg_000136,sample_00045,Dance Harder - Three Chain Links,REAL,0,Electronic,,test,0.7408914373367109,0.6651278506719375,1
+seg_000137,sample_00045,Dance Harder - Three Chain Links,REAL,0,Electronic,,test,0.5591680217825199,0.6651278506719375,0
+seg_000147,sample_00049,Different Day - First,REAL,0,Pop,,test,0.9107943610569285,0.6651278506719375,1
+seg_000148,sample_00049,Different Day - First,REAL,0,Pop,,test,0.06172246542628061,0.6651278506719375,0
+seg_000149,sample_00049,Different Day - First,REAL,0,Pop,,test,0.94773128679412,0.6651278506719375,1
+seg_000168,sample_00056,El Burrito - Malaventura,REAL,0,Pop,,test,0.041424689389548006,0.6651278506719375,0
+seg_000169,sample_00056,El Burrito - Malaventura,REAL,0,Pop,,test,0.0853232512838746,0.6651278506719375,0
+seg_000170,sample_00056,El Burrito - Malaventura,REAL,0,Pop,,test,0.5252178542215905,0.6651278506719375,0
+seg_000183,sample_00061,End titles - Itsensäsyöjät,REAL,0,Electronic,,test,0.5854351970848332,0.6651278506719375,0
+seg_000184,sample_00061,End titles - Itsensäsyöjät,REAL,0,Electronic,,test,0.9512367233372412,0.6651278506719375,1
+seg_000185,sample_00061,End titles - Itsensäsyöjät,REAL,0,Electronic,,test,0.9987057599127224,0.6651278506719375,1
+seg_000237,sample_00079,Fuckaboing - RoccoW,REAL,0,Electronic,,test,0.8272553492275554,0.6651278506719375,1
+seg_000238,sample_00079,Fuckaboing - RoccoW,REAL,0,Electronic,,test,0.9963566660041423,0.6651278506719375,1
+seg_000239,sample_00079,Fuckaboing - RoccoW,REAL,0,Electronic,,test,0.9998827848510131,0.6651278506719375,1
+seg_000261,sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",REAL,0,Rock,,test,0.0007596753003192982,0.6651278506719375,0
+seg_000262,sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",REAL,0,Rock,,test,0.009233858650694784,0.6651278506719375,0
+seg_000263,sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",REAL,0,Rock,,test,0.023280604109134143,0.6651278506719375,0
+seg_000267,sample_00089,"Hungry - Oh Yeah, the Future",REAL,0,Pop,,test,0.034629126799327475,0.6651278506719375,0
+seg_000268,sample_00089,"Hungry - Oh Yeah, the Future",REAL,0,Pop,,test,0.26721111021139465,0.6651278506719375,0
+seg_000269,sample_00089,"Hungry - Oh Yeah, the Future",REAL,0,Pop,,test,0.08086492853834215,0.6651278506719375,0
+seg_000270,sample_00090,I - Inflammator,REAL,0,Rock,,test,0.14020903240346266,0.6651278506719375,0
+seg_000271,sample_00090,I - Inflammator,REAL,0,Rock,,test,0.09892393010712842,0.6651278506719375,0
+seg_000272,sample_00090,I - Inflammator,REAL,0,Rock,,test,0.0067110299366556735,0.6651278506719375,0
+seg_000345,sample_00115,L'arbre - Salmo,REAL,0,Rock,,test,0.0011146773744751947,0.6651278506719375,0
+seg_000346,sample_00115,L'arbre - Salmo,REAL,0,Rock,,test,0.030985329541009573,0.6651278506719375,0
+seg_000347,sample_00115,L'arbre - Salmo,REAL,0,Rock,,test,0.0010131995204590912,0.6651278506719375,0
+seg_000348,sample_00116,LIQUID SKULLS - voyageurs,REAL,0,Rock,,test,8.44495727116889e-06,0.6651278506719375,0
+seg_000349,sample_00116,LIQUID SKULLS - voyageurs,REAL,0,Rock,,test,0.00036677509763557216,0.6651278506719375,0
+seg_000350,sample_00116,LIQUID SKULLS - voyageurs,REAL,0,Rock,,test,0.000585837107166424,0.6651278506719375,0
+seg_000363,sample_00121,Leaving Here - Mod Fun,REAL,0,Rock,,test,0.012025535905144814,0.6651278506719375,0
+seg_000364,sample_00121,Leaving Here - Mod Fun,REAL,0,Rock,,test,0.7979273148562358,0.6651278506719375,1
+seg_000365,sample_00121,Leaving Here - Mod Fun,REAL,0,Rock,,test,0.5157335049918164,0.6651278506719375,0
+seg_000366,sample_00122,Let You're Body Move - D SMILEZ,REAL,0,Electronic,,test,0.13564403820170254,0.6651278506719375,0
+seg_000367,sample_00122,Let You're Body Move - D SMILEZ,REAL,0,Electronic,,test,0.15287930966930496,0.6651278506719375,0
+seg_000368,sample_00122,Let You're Body Move - D SMILEZ,REAL,0,Electronic,,test,0.88705743666375,0.6651278506719375,1
+seg_000369,sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,0.8219212480503558,0.6651278506719375,1
+seg_000370,sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,0.8762797985156685,0.6651278506719375,1
+seg_000371,sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,0.6809002475079933,0.6651278506719375,1
+seg_000396,sample_00132,Love Dream - The Zombie Dandies,REAL,0,Rock,,test,0.06699951886711665,0.6651278506719375,0
+seg_000397,sample_00132,Love Dream - The Zombie Dandies,REAL,0,Rock,,test,0.10494136491778411,0.6651278506719375,0
+seg_000398,sample_00132,Love Dream - The Zombie Dandies,REAL,0,Rock,,test,0.005663528988014586,0.6651278506719375,0
+seg_000417,sample_00139,Moja Krypta - AmortE,REAL,0,Rock,,test,0.16530372242934102,0.6651278506719375,0
+seg_000418,sample_00139,Moja Krypta - AmortE,REAL,0,Rock,,test,0.8955760252780091,0.6651278506719375,1
+seg_000419,sample_00139,Moja Krypta - AmortE,REAL,0,Rock,,test,0.23827408214485862,0.6651278506719375,0
+seg_000432,sample_00144,Motocross Mania - Monroeville Music Center,REAL,0,Pop,,test,0.5262797848647853,0.6651278506719375,0
+seg_000433,sample_00144,Motocross Mania - Monroeville Music Center,REAL,0,Pop,,test,0.06065191230249097,0.6651278506719375,0
+seg_000434,sample_00144,Motocross Mania - Monroeville Music Center,REAL,0,Pop,,test,0.004292201777727151,0.6651278506719375,0
+seg_000438,sample_00146,Music For an Underground Circu - Ergo Phizmiz,REAL,0,Pop,,test,0.01805575818691251,0.6651278506719375,0
+seg_000439,sample_00146,Music For an Underground Circu - Ergo Phizmiz,REAL,0,Pop,,test,0.19681896397927848,0.6651278506719375,0
+seg_000440,sample_00146,Music For an Underground Circu - Ergo Phizmiz,REAL,0,Pop,,test,0.012827274477868295,0.6651278506719375,0
+seg_000462,sample_00154,Night Owl - Broke For Free,REAL,0,Electronic,,test,2.3315587223098238e-05,0.6651278506719375,0
+seg_000463,sample_00154,Night Owl - Broke For Free,REAL,0,Electronic,,test,0.047183895029507324,0.6651278506719375,0
+seg_000464,sample_00154,Night Owl - Broke For Free,REAL,0,Electronic,,test,0.0003753340572221249,0.6651278506719375,0
+seg_000513,sample_00171,Pista Afuera - Epstein,REAL,0,Electronic,,test,0.04256427998739802,0.6651278506719375,0
+seg_000514,sample_00171,Pista Afuera - Epstein,REAL,0,Electronic,,test,0.18837875375342633,0.6651278506719375,0
+seg_000515,sample_00171,Pista Afuera - Epstein,REAL,0,Electronic,,test,0.2910076404058664,0.6651278506719375,0
+seg_000522,sample_00174,Production - Bird Names,REAL,0,Pop,,test,0.03879137837443037,0.6651278506719375,0
+seg_000523,sample_00174,Production - Bird Names,REAL,0,Pop,,test,0.12063219454202766,0.6651278506719375,0
+seg_000524,sample_00174,Production - Bird Names,REAL,0,Pop,,test,0.00017823621078189597,0.6651278506719375,0
+seg_000528,sample_00176,Puertas de Fuego - Guerra de Cerdos,REAL,0,Rock,,test,0.003437125864216075,0.6651278506719375,0
+seg_000529,sample_00176,Puertas de Fuego - Guerra de Cerdos,REAL,0,Rock,,test,0.19886987740447903,0.6651278506719375,0
+seg_000530,sample_00176,Puertas de Fuego - Guerra de Cerdos,REAL,0,Rock,,test,0.002126490188975462,0.6651278506719375,0
+seg_000534,sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,0.7075304980108728,0.6651278506719375,1
+seg_000535,sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,0.9996663061655371,0.6651278506719375,1
+seg_000536,sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,0.9355946318323637,0.6651278506719375,1
+seg_000540,sample_00180,Resistentialism - Nihilore,REAL,0,Electronic,,test,0.07796929564508276,0.6651278506719375,0
+seg_000541,sample_00180,Resistentialism - Nihilore,REAL,0,Electronic,,test,0.6925975986677504,0.6651278506719375,1
+seg_000542,sample_00180,Resistentialism - Nihilore,REAL,0,Electronic,,test,0.9707516082206529,0.6651278506719375,1
+seg_000585,sample_00195,Set Fire to Creation - Nihilore,REAL,0,Electronic,,test,0.8565773927551668,0.6651278506719375,1
+seg_000586,sample_00195,Set Fire to Creation - Nihilore,REAL,0,Electronic,,test,0.9986965018979689,0.6651278506719375,1
+seg_000587,sample_00195,Set Fire to Creation - Nihilore,REAL,0,Electronic,,test,0.9984471408803814,0.6651278506719375,1
+seg_000588,sample_00196,Sfogare Il Dissenso - Deiezione HC,REAL,0,Rock,,test,0.0006334329650868815,0.6651278506719375,0
+seg_000589,sample_00196,Sfogare Il Dissenso - Deiezione HC,REAL,0,Rock,,test,0.04285774408371234,0.6651278506719375,0
+seg_000590,sample_00196,Sfogare Il Dissenso - Deiezione HC,REAL,0,Rock,,test,0.0466416875112548,0.6651278506719375,0
+seg_000594,sample_00198,She Works / Tepid Waters - Bird Names,REAL,0,Pop,,test,0.0002754355069155912,0.6651278506719375,0
+seg_000595,sample_00198,She Works / Tepid Waters - Bird Names,REAL,0,Pop,,test,0.004508701272062128,0.6651278506719375,0
+seg_000596,sample_00198,She Works / Tepid Waters - Bird Names,REAL,0,Pop,,test,0.015144821132143953,0.6651278506719375,0
+seg_000618,sample_00206,Something Dirty - Ergo Phizmiz,REAL,0,Pop,,test,0.37573985639470164,0.6651278506719375,0
+seg_000619,sample_00206,Something Dirty - Ergo Phizmiz,REAL,0,Pop,,test,0.02952421499246839,0.6651278506719375,0
+seg_000620,sample_00206,Something Dirty - Ergo Phizmiz,REAL,0,Pop,,test,0.8718616692717586,0.6651278506719375,1
+seg_000621,sample_00207,Sonzis FM - Pipe Choir,REAL,0,Rock,,test,0.0017475861209144373,0.6651278506719375,0
+seg_000622,sample_00207,Sonzis FM - Pipe Choir,REAL,0,Rock,,test,0.12136069391001904,0.6651278506719375,0
+seg_000623,sample_00207,Sonzis FM - Pipe Choir,REAL,0,Rock,,test,0.9766987909637291,0.6651278506719375,1
+seg_000648,sample_00216,Stuttgart - Portrayal,REAL,0,Rock,,test,0.12929538579112557,0.6651278506719375,0
+seg_000649,sample_00216,Stuttgart - Portrayal,REAL,0,Rock,,test,0.28049621221716736,0.6651278506719375,0
+seg_000650,sample_00216,Stuttgart - Portrayal,REAL,0,Rock,,test,0.6604139052028095,0.6651278506719375,0
+seg_000651,sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,REAL,0,Electronic,,test,0.00010271053441257888,0.6651278506719375,0
+seg_000652,sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,REAL,0,Electronic,,test,0.6052710069359644,0.6651278506719375,0
+seg_000653,sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,REAL,0,Electronic,,test,0.018082188180305516,0.6651278506719375,0
+seg_000669,sample_00223,Terve Teille - Чокнутый Пропеллер,REAL,0,Rock,,test,0.26221686399803634,0.6651278506719375,0
+seg_000670,sample_00223,Terve Teille - Чокнутый Пропеллер,REAL,0,Rock,,test,0.018998592328684685,0.6651278506719375,0
+seg_000671,sample_00223,Terve Teille - Чокнутый Пропеллер,REAL,0,Rock,,test,0.00470530147314549,0.6651278506719375,0
+seg_000672,sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,REAL,0,Electronic,,test,0.0042516698016988,0.6651278506719375,0
+seg_000673,sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,REAL,0,Electronic,,test,0.8145808638202252,0.6651278506719375,1
+seg_000674,sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,REAL,0,Electronic,,test,0.2759099166802375,0.6651278506719375,0
+seg_000708,sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",REAL,0,Pop,,test,7.270880214200628e-05,0.6651278506719375,0
+seg_000709,sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",REAL,0,Pop,,test,0.020488521170869516,0.6651278506719375,0
+seg_000710,sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",REAL,0,Pop,,test,0.0002623684798846404,0.6651278506719375,0
+seg_000723,sample_00241,The Secret Garden - Barbarix,REAL,0,Electronic,,test,0.008365562443118063,0.6651278506719375,0
+seg_000724,sample_00241,The Secret Garden - Barbarix,REAL,0,Electronic,,test,0.028037482896206365,0.6651278506719375,0
+seg_000725,sample_00241,The Secret Garden - Barbarix,REAL,0,Electronic,,test,0.03727369363686067,0.6651278506719375,0
+seg_000756,sample_00252,Troubles I've seen - Malaventura,REAL,0,Pop,,test,0.004285144057682526,0.6651278506719375,0
+seg_000757,sample_00252,Troubles I've seen - Malaventura,REAL,0,Pop,,test,0.12298262207036309,0.6651278506719375,0
+seg_000758,sample_00252,Troubles I've seen - Malaventura,REAL,0,Pop,,test,0.994855469271416,0.6651278506719375,1
+seg_000759,sample_00253,Ugh! Humans Can Join - Mystery Mammal,REAL,0,Electronic,,test,0.9884544121670721,0.6651278506719375,1
+seg_000760,sample_00253,Ugh! Humans Can Join - Mystery Mammal,REAL,0,Electronic,,test,0.6630353101863667,0.6651278506719375,0
+seg_000761,sample_00253,Ugh! Humans Can Join - Mystery Mammal,REAL,0,Electronic,,test,0.156299960441713,0.6651278506719375,0
+seg_000771,sample_00257,Untitled - Fatal Injection,REAL,0,Rock,,test,0.0011496100335632983,0.6651278506719375,0
+seg_000772,sample_00257,Untitled - Fatal Injection,REAL,0,Rock,,test,0.04313340756854097,0.6651278506719375,0
+seg_000773,sample_00257,Untitled - Fatal Injection,REAL,0,Rock,,test,0.30841927386708123,0.6651278506719375,0
+seg_000810,sample_00270,Where Is Everything - The Moi Non Plus,REAL,0,Rock,,test,0.07510865037171496,0.6651278506719375,0
+seg_000811,sample_00270,Where Is Everything - The Moi Non Plus,REAL,0,Rock,,test,0.38358389132203535,0.6651278506719375,0
+seg_000812,sample_00270,Where Is Everything - The Moi Non Plus,REAL,0,Rock,,test,0.35134200219517253,0.6651278506719375,0
+seg_000813,sample_00271,Who Loves You Dear - Mink Lungs,REAL,0,Rock,,test,0.39459600363991143,0.6651278506719375,0
+seg_000814,sample_00271,Who Loves You Dear - Mink Lungs,REAL,0,Rock,,test,0.8608674998114538,0.6651278506719375,1
+seg_000815,sample_00271,Who Loves You Dear - Mink Lungs,REAL,0,Rock,,test,0.03247284159763157,0.6651278506719375,0
+seg_000837,sample_00279,Yurtology - Michett,REAL,0,Electronic,,test,0.07464162334946829,0.6651278506719375,0
+seg_000838,sample_00279,Yurtology - Michett,REAL,0,Electronic,,test,0.12244899803237308,0.6651278506719375,0
+seg_000839,sample_00279,Yurtology - Michett,REAL,0,Electronic,,test,0.02286361190383436,0.6651278506719375,0
+seg_006870,sample_02389,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.9479848945733881,0.6651278506719375,1
+seg_006871,sample_02389,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.9882312868263422,0.6651278506719375,1
+seg_006872,sample_02389,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.7544204760317833,0.6651278506719375,1
+seg_006873,sample_02390,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.4531679243987926,0.6651278506719375,0
+seg_006874,sample_02390,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.8033160822662849,0.6651278506719375,1
+seg_006875,sample_02390,Dance Harder - Three Chain Links,FAKE,1,Electronic,udio,test,0.9997585837115639,0.6651278506719375,1
+seg_006906,sample_02401,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.9999437744407245,0.6651278506719375,1
+seg_006907,sample_02401,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.975749550214584,0.6651278506719375,1
+seg_006908,sample_02401,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.9998943408862557,0.6651278506719375,1
+seg_006909,sample_02402,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.4007792260342297,0.6651278506719375,0
+seg_006910,sample_02402,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.002897625459572382,0.6651278506719375,0
+seg_006911,sample_02402,Fuckaboing - RoccoW,FAKE,1,Electronic,udio,test,0.9998224460796264,0.6651278506719375,1
+seg_006954,sample_02417,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.9984801433862681,0.6651278506719375,1
+seg_006955,sample_02417,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.7600961791140233,0.6651278506719375,1
+seg_006956,sample_02417,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.9579570083541847,0.6651278506719375,1
+seg_006957,sample_02418,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.9691987011109018,0.6651278506719375,1
+seg_006958,sample_02418,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.5628566877579763,0.6651278506719375,0
+seg_006959,sample_02418,Night Owl - Broke For Free,FAKE,1,Electronic,udio,test,0.9988077130144258,0.6651278506719375,1
+seg_007014,sample_02437,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.9986028266760543,0.6651278506719375,1
+seg_007015,sample_02437,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.42778520720796603,0.6651278506719375,0
+seg_007016,sample_02437,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.9996456921658906,0.6651278506719375,1
+seg_007017,sample_02438,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.2973309850845982,0.6651278506719375,0
+seg_007018,sample_02438,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.823500913850758,0.6651278506719375,1
+seg_007019,sample_02438,Pista Afuera - Epstein,FAKE,1,Electronic,udio,test,0.9929385320340693,0.6651278506719375,1
+seg_007026,sample_02441,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,3.793574336208929e-05,0.6651278506719375,0
+seg_007027,sample_02441,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,0.004269576368133119,0.6651278506719375,0
+seg_007028,sample_02441,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,0.9996273693549512,0.6651278506719375,1
+seg_007029,sample_02442,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,0.25107908700145287,0.6651278506719375,0
+seg_007030,sample_02442,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,0.04799675695814488,0.6651278506719375,0
+seg_007031,sample_02442,Realize Me - Jim Rooster,FAKE,1,Electronic,udio,test,0.9999974294923163,0.6651278506719375,1
+seg_007032,sample_02443,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.9999433755266597,0.6651278506719375,1
+seg_007033,sample_02443,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.9999906268585625,0.6651278506719375,1
+seg_007034,sample_02443,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.9999518226982252,0.6651278506719375,1
+seg_007035,sample_02444,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.04642571374721191,0.6651278506719375,0
+seg_007036,sample_02444,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.008280712398230257,0.6651278506719375,0
+seg_007037,sample_02444,Resistentialism - Nihilore,FAKE,1,Electronic,udio,test,0.9999873657446597,0.6651278506719375,1
+seg_007098,sample_02465,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.9658998373086445,0.6651278506719375,1
+seg_007099,sample_02465,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.9999735061944937,0.6651278506719375,1
+seg_007100,sample_02465,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.9999999523489649,0.6651278506719375,1
+seg_007101,sample_02466,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.26412648478318274,0.6651278506719375,0
+seg_007102,sample_02466,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.5799241211635118,0.6651278506719375,0
+seg_007103,sample_02466,Ugh! Humans Can Join - Mystery Mammal,FAKE,1,Electronic,udio,test,0.7114438028061654,0.6651278506719375,1
+seg_007152,sample_02483,Different Day - First,FAKE,1,Pop,udio,test,0.9251281391265479,0.6651278506719375,1
+seg_007153,sample_02483,Different Day - First,FAKE,1,Pop,udio,test,0.7711084041781843,0.6651278506719375,1
+seg_007154,sample_02483,Different Day - First,FAKE,1,Pop,udio,test,0.967786476072622,0.6651278506719375,1
+seg_007155,sample_02484,Different Day - First,FAKE,1,Pop,udio,test,0.9462415677230837,0.6651278506719375,1
+seg_007156,sample_02484,Different Day - First,FAKE,1,Pop,udio,test,0.0067113469880988414,0.6651278506719375,0
+seg_007157,sample_02484,Different Day - First,FAKE,1,Pop,udio,test,0.9978087030217813,0.6651278506719375,1
+seg_007182,sample_02493,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.979147130648784,0.6651278506719375,1
+seg_007183,sample_02493,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.00106724400043398,0.6651278506719375,0
+seg_007184,sample_02493,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.5018852578497608,0.6651278506719375,0
+seg_007185,sample_02494,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.008367056998871587,0.6651278506719375,0
+seg_007186,sample_02494,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.00021964323222915588,0.6651278506719375,0
+seg_007187,sample_02494,"Hungry - Oh Yeah, the Future",FAKE,1,Pop,udio,test,0.00044174548633894314,0.6651278506719375,0
+seg_007248,sample_02515,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.9985913966892208,0.6651278506719375,1
+seg_007249,sample_02515,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.9926635727791091,0.6651278506719375,1
+seg_007250,sample_02515,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.9869499322641865,0.6651278506719375,1
+seg_007251,sample_02516,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.9992319103945101,0.6651278506719375,1
+seg_007252,sample_02516,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.3924878456045492,0.6651278506719375,0
+seg_007253,sample_02516,Motocross Mania - Monroeville Music Center,FAKE,1,Pop,udio,test,0.016915172572311878,0.6651278506719375,0
+seg_007254,sample_02517,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.985172651570607,0.6651278506719375,1
+seg_007255,sample_02517,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.6339969640966755,0.6651278506719375,0
+seg_007256,sample_02517,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.9970477521135633,0.6651278506719375,1
+seg_007257,sample_02518,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.985172651570607,0.6651278506719375,1
+seg_007258,sample_02518,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.6339969640966755,0.6651278506719375,0
+seg_007259,sample_02518,Music For an Underground Circu - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.9554330901498136,0.6651278506719375,1
+seg_007314,sample_02537,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.36472624014057475,0.6651278506719375,0
+seg_007315,sample_02537,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.7312790316027946,0.6651278506719375,1
+seg_007316,sample_02537,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.808207404203201,0.6651278506719375,1
+seg_007317,sample_02538,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.0005676614972681288,0.6651278506719375,0
+seg_007318,sample_02538,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.00011699025616619099,0.6651278506719375,0
+seg_007319,sample_02538,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,0.014063851296311033,0.6651278506719375,0
+seg_007326,sample_02541,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.9494916707779026,0.6651278506719375,1
+seg_007327,sample_02541,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.6953879641957657,0.6651278506719375,1
+seg_007328,sample_02541,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.030551567961452485,0.6651278506719375,0
+seg_007329,sample_02542,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.9494916707779026,0.6651278506719375,1
+seg_007330,sample_02542,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.6953879641957657,0.6651278506719375,1
+seg_007331,sample_02542,Something Dirty - Ergo Phizmiz,FAKE,1,Pop,udio,test,0.9990949891738523,0.6651278506719375,1
+seg_007386,sample_02561,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.7954901966229011,0.6651278506719375,1
+seg_007387,sample_02561,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.9990279139890633,0.6651278506719375,1
+seg_007388,sample_02561,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.9563737283498712,0.6651278506719375,1
+seg_007389,sample_02562,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.1830981433918645,0.6651278506719375,0
+seg_007390,sample_02562,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.6657007118957572,0.6651278506719375,1
+seg_007391,sample_02562,Troubles I've seen - Malaventura,FAKE,1,Pop,udio,test,0.00801473634665626,0.6651278506719375,0
+seg_007428,sample_02575,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.8622471475971558,0.6651278506719375,1
+seg_007429,sample_02575,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.9979014414395052,0.6651278506719375,1
+seg_007430,sample_02575,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.9981599918623701,0.6651278506719375,1
+seg_007431,sample_02576,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.9685259164183464,0.6651278506719375,1
+seg_007432,sample_02576,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.18054861436108688,0.6651278506719375,0
+seg_007433,sample_02576,Attention - Pete Prodoehl,FAKE,1,Rock,udio,test,0.9500682778244152,0.6651278506719375,1
+seg_007476,sample_02591,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.9302777346017148,0.6651278506719375,1
+seg_007477,sample_02591,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.9989955952584173,0.6651278506719375,1
+seg_007478,sample_02591,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.9560443621157952,0.6651278506719375,1
+seg_007479,sample_02592,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.9322465290919363,0.6651278506719375,1
+seg_007480,sample_02592,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.07204817354477665,0.6651278506719375,0
+seg_007481,sample_02592,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,udio,test,0.025044008217596125,0.6651278506719375,0
+seg_007500,sample_02599,I - Inflammator,FAKE,1,Rock,udio,test,0.40714408894570314,0.6651278506719375,0
+seg_007501,sample_02599,I - Inflammator,FAKE,1,Rock,udio,test,0.49169820906812656,0.6651278506719375,0
+seg_007502,sample_02599,I - Inflammator,FAKE,1,Rock,udio,test,0.7417305428522478,0.6651278506719375,1
+seg_007503,sample_02600,I - Inflammator,FAKE,1,Rock,udio,test,0.9999645155403284,0.6651278506719375,1
+seg_007504,sample_02600,I - Inflammator,FAKE,1,Rock,udio,test,0.016000298606053204,0.6651278506719375,0
+seg_007505,sample_02600,I - Inflammator,FAKE,1,Rock,udio,test,0.7308849419229139,0.6651278506719375,1
+seg_007518,sample_02605,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.278517713833905,0.6651278506719375,0
+seg_007519,sample_02605,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.8947399885482391,0.6651278506719375,1
+seg_007520,sample_02605,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.9998960238056556,0.6651278506719375,1
+seg_007521,sample_02606,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.6266278551618338,0.6651278506719375,0
+seg_007522,sample_02606,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.9977066342524427,0.6651278506719375,1
+seg_007523,sample_02606,LIQUID SKULLS - voyageurs,FAKE,1,Rock,udio,test,0.022806688656534214,0.6651278506719375,0
+seg_007530,sample_02609,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.7915713135048743,0.6651278506719375,1
+seg_007531,sample_02609,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.9981987327497936,0.6651278506719375,1
+seg_007532,sample_02609,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.9999412902650915,0.6651278506719375,1
+seg_007533,sample_02610,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.7951773873175243,0.6651278506719375,1
+seg_007534,sample_02610,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.5630128030625013,0.6651278506719375,0
+seg_007535,sample_02610,Love Dream - The Zombie Dandies,FAKE,1,Rock,udio,test,0.06293310517281256,0.6651278506719375,0
+seg_007608,sample_02635,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.974997173959061,0.6651278506719375,1
+seg_007609,sample_02635,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.9915075294454496,0.6651278506719375,1
+seg_007610,sample_02635,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.9419797569786488,0.6651278506719375,1
+seg_007611,sample_02636,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.41745536693411606,0.6651278506719375,0
+seg_007612,sample_02636,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.9994280767068131,0.6651278506719375,1
+seg_007613,sample_02636,Sfogare Il Dissenso - Deiezione HC,FAKE,1,Rock,udio,test,0.8957063782211537,0.6651278506719375,1
+seg_007632,sample_02643,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.8451007916032851,0.6651278506719375,1
+seg_007633,sample_02643,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.017670240878861515,0.6651278506719375,0
+seg_007634,sample_02643,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.9870435168242254,0.6651278506719375,1
+seg_007635,sample_02644,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.7592331464586889,0.6651278506719375,1
+seg_007636,sample_02644,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.8228613441490257,0.6651278506719375,1
+seg_007637,sample_02644,Stuttgart - Portrayal,FAKE,1,Rock,udio,test,0.9999923223744371,0.6651278506719375,1
+seg_007638,sample_02645,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.035821265985679966,0.6651278506719375,0
+seg_007639,sample_02645,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.028525501169428067,0.6651278506719375,0
+seg_007640,sample_02645,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.39053543528865114,0.6651278506719375,0
+seg_007641,sample_02646,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.9467148089827613,0.6651278506719375,1
+seg_007642,sample_02646,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.27911772890702724,0.6651278506719375,0
+seg_007643,sample_02646,Terve Teille - Чокнутый Пропеллер,FAKE,1,Rock,udio,test,0.06421567749050669,0.6651278506719375,0
+seg_007680,sample_02659,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.9182568521601107,0.6651278506719375,1
+seg_007681,sample_02659,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.0027559979771515667,0.6651278506719375,0
+seg_007682,sample_02659,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.23543214592664255,0.6651278506719375,0
+seg_007683,sample_02660,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.9593745209533994,0.6651278506719375,1
+seg_007684,sample_02660,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.9931293520460353,0.6651278506719375,1
+seg_007685,sample_02660,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,udio,test,0.9773895527392963,0.6651278506719375,1
+seg_007686,sample_02661,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.10818879052845128,0.6651278506719375,0
+seg_007687,sample_02661,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.10731672718347636,0.6651278506719375,0
+seg_007688,sample_02661,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.010036050997766471,0.6651278506719375,0
+seg_007689,sample_02662,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.4712533922035797,0.6651278506719375,0
+seg_007690,sample_02662,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.044735980178978875,0.6651278506719375,0
+seg_007691,sample_02662,Who Loves You Dear - Mink Lungs,FAKE,1,Rock,udio,test,0.9795595966053642,0.6651278506719375,1

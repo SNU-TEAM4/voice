@@ -1,0 +1,7 @@
+{
+  "segment_eer_threshold": 0.04316171258687973,
+  "track_eer_threshold": 0.09354320168495178,
+  "segment_val_eer": 0.08990689253847149,
+  "track_val_eer": 0.04550159984942594,
+  "best_epoch": 18
+}

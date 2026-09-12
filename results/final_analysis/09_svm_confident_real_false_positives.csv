@@ -1,0 +1,8 @@
+﻿track_sample_id,original_audio,label,label_id,genre,generator,split,segment_count,lr_score,lr_pred,svm_score,svm_pred
+sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,3,0.9665707428218102,1,0.9562542318270856,1
+sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,3,0.9730179367753888,1,0.9486938092986992,1
+sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,3,0.9016558247855416,1,0.9421653737797192,1
+sample_00139,Moja Krypta - AmortE,REAL,0,Rock,,test,3,0.4771360853921613,0,0.9129161175875652,1
+sample_00195,Set Fire to Creation - Nihilore,REAL,0,Electronic,,test,3,0.9477188044065286,1,0.9125691351894774,1
+sample_00049,Different Day - First,REAL,0,Pop,,test,3,0.7104855090087786,1,0.911645391917498,1
+sample_00079,Fuckaboing - RoccoW,REAL,0,Electronic,,test,3,0.8430621403110276,1,0.8871959353429855,1

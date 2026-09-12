@@ -1,0 +1,11 @@
+﻿track_sample_id,original_audio,label,label_id,genre,generator,split,segment_count,cnn_score,cnn_pred
+sample_02101,Fuckaboing - RoccoW,FAKE,1,Electronic,suno,test,3,0.0041083265,0
+sample_01531,Troubles I've seen - Malaventura,FAKE,1,Pop,mubert,test,3,0.00597214,0
+sample_02537,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,3,0.008364603,0
+sample_02932,Fuckaboing - RoccoW,FAKE,1,Electronic,elevenlabs,test,3,0.008623359,0
+sample_01623,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",FAKE,1,Rock,mubert,test,3,0.010479674,0
+sample_03133,Where Is Everything - The Moi Non Plus,FAKE,1,Rock,elevenlabs,test,3,0.02632226,0
+sample_02538,She Works / Tepid Waters - Bird Names,FAKE,1,Pop,udio,test,3,0.029371895,0
+sample_01626,LIQUID SKULLS - voyageurs,FAKE,1,Rock,mubert,test,3,0.029675506,0
+sample_03301,Love Dream - The Zombie Dandies,FAKE,1,Rock,musicgen,test,3,0.034391563,0
+sample_00353,El Burrito - Malaventura,FAKE,1,Pop,acestep,test,3,0.03483961,0

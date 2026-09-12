@@ -1,0 +1,14 @@
+{
+  "LogisticRegression": {
+    "segment_eer_threshold": 0.6663391213946953,
+    "track_eer_threshold": 0.6059354207239731,
+    "segment_val_eer": 0.15884844174317858,
+    "track_val_eer": 0.10754281949934125
+  },
+  "RBF-SVM": {
+    "segment_eer_threshold": 0.9258082151422282,
+    "track_eer_threshold": 0.8784699961277153,
+    "segment_val_eer": 0.14309345230397863,
+    "track_val_eer": 0.10754281949934125
+  }
+}

@@ -1,0 +1,7 @@
+﻿track_sample_id,original_audio,label,label_id,genre,generator,split,segment_count,cnn_score,cnn_pred
+sample_00123,Let's Start Out Slow - RoccoW,REAL,0,Electronic,,test,3,0.37864587,1
+sample_00021,Attention - Pete Prodoehl,REAL,0,Rock,,test,3,0.37798145,1
+sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",REAL,0,Rock,,test,3,0.24859756,1
+sample_00178,Realize Me - Jim Rooster,REAL,0,Electronic,,test,3,0.23451917,1
+sample_00004,3 am West End - statusq,REAL,0,Electronic,,test,3,0.13475041,1
+sample_00045,Dance Harder - Three Chain Links,REAL,0,Electronic,,test,3,0.10639069,1

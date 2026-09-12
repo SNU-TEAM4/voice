@@ -1,0 +1,8 @@
+{
+  "holdout_generator": "musicgen",
+  "segment_eer_threshold": 0.20449063181877136,
+  "track_eer_threshold": 0.2816530466079712,
+  "segment_val_eer": 0.12860693861085404,
+  "track_val_eer": 0.06363636363636363,
+  "best_epoch": 15
+}
