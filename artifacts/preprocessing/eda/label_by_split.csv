@@ -1,0 +1,4 @@
+﻿split,FAKE,REAL
+test,494,45
+train,2185,207
+val,483,44

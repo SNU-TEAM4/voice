@@ -1,5 +1,8 @@
 # Echoes 완전 AI 생성 음악 탐지
 
+전처리 과정을 노트북 단위로 재현하고 각 단계의 실제 결과를 확인하려면
+[`artifacts/preprocessing/PREPROCESSING_RESULTS.md`](artifacts/preprocessing/PREPROCESSING_RESULTS.md)를 참고한다.
+
 현재까지의 연구설계, 수업 개념, 분석 방법과 실험결과를 한 문서로 합친
 보고서는 `artifacts/통합_연구설계_및_실험결과.md`에서 확인할 수 있다.
 

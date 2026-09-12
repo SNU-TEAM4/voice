@@ -1,0 +1,13 @@
+﻿generator,samples,unique_original_audio,coverage_ratio
+acestep,294,293,0.9899
+musicgen,293,293,0.9899
+audioldm,292,292,0.9865
+songgen,292,290,0.9797
+diffrhythm,299,289,0.9764
+stableaudio,194,185,0.625
+suno,300,151,0.5101
+udio,300,151,0.5101
+elevenlabs,300,150,0.5068
+brev,298,150,0.5068
+producer,151,150,0.5068
+mubert,149,148,0.5
