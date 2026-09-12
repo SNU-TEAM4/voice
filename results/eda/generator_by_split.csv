@@ -1,0 +1,13 @@
+﻿generator,test,train,val
+acestep,45,206,43
+audioldm,45,203,44
+brev,48,204,46
+diffrhythm,47,207,45
+elevenlabs,48,204,48
+mubert,24,100,25
+musicgen,45,205,43
+producer,25,102,24
+songgen,45,205,42
+stableaudio,26,141,27
+suno,48,204,48
+udio,48,204,48

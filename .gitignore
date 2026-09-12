@@ -1,0 +1,30 @@
+# macOS and editor files
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Downloaded datasets and generated audio
+data/raw/
+data/processed/
+
+# Training artifacts
+checkpoints/
+experiments/
+*.ckpt
+*.pth
+*.pt
+*.pkl
+

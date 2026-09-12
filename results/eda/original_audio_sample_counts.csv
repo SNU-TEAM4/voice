@@ -1,0 +1,297 @@
+﻿original_audio,split,genre,total_samples,fake_samples
+"10,000 People Chanting, ""I'm an Individual"" - Nihilore",train,Electronic,6,5
+1984 - Punk Rock Opera,train,Rock,14,13
+2 (Wasn't There) - Isle of Pine,val,Rock,17,16
+2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,test,Electronic,6,5
+3 am West End - statusq,test,Electronic,6,5
+5 (Lexington) - Isle of Pine,test,Rock,7,6
+"50,000 Volts of Democracy mp3 - Legally Blind",train,Rock,7,6
+"6 (Coat of Arms, Close) - Isle of Pine",train,Rock,7,6
+A Dark Blue Arc - Pipe Choir,train,Rock,7,6
+A Different World By Night - Nihilore,train,Electronic,6,5
+A Lady In Red With A Plan To Steal - Did You Just Hex Me?,train,Rock,7,6
+Acoustic Unleashed - Remain,train,Electronic,17,16
+Ad Astra - P C III,train,Electronic,17,16
+Agora - Malaventura,val,Pop,7,6
+All of Us - Eric Skiff,train,Electronic,17,16
+Ancient Whispers I - P C III,train,Electronic,6,5
+And Over The Rainbows - milky-chu,train,Electronic,6,5
+Apparitions Under Glass - Sarin,train,Rock,7,6
+"Aquamarine, My Distant Blue - Nihilore",train,Electronic,17,16
+Artificial anxiety - Michett,train,Electronic,6,5
+As Nihilism Gives Way To Existentialism - Nihilore,train,Electronic,6,5
+Attention - Pete Prodoehl,test,Rock,17,16
+Authenticity - Nihilore,train,Electronic,6,5
+Autobahn - S-B-J,train,Electronic,17,16
+"Autopsy - Oh Yeah, the Future",train,Pop,16,15
+Bergwald Bergwald - Every Now and Every Then,train,Rock,7,6
+Better Run Away From Me - Miss Derringer,train,Rock,7,6
+Beyond Luxury - Mors Ontologica,val,Rock,7,6
+Bizzy - The Tleilaxu Music Machine,test,Electronic,6,5
+Black Panda - The Crypts!,train,Rock,7,6
+Breathe New Life - Scott Holmes,train,Rock,6,5
+Breeze Funk - Malaventura,train,Pop,17,16
+Burn - Room For A Ghost,train,Rock,7,6
+Busby Berkeley - Ergo Phizmiz,train,Pop,17,16
+Cassie Lace - The Zombie Dandies,train,Rock,7,6
+Celia - Ergo Phizmiz,train,Pop,17,16
+Chipho instrumental - RoccoW,train,Electronic,2,1
+Clay Heart - Nihilore,train,Electronic,17,16
+Cloudy - Subway Sonicbeat,train,Electronic,6,5
+Cold Chains - Rolemusic,train,Electronic,17,16
+Coliidae - K.D. Expression,train,Electronic,16,15
+Colossal Stillness - Scott Holmes,train,Rock,18,17
+Convicted Jazz Drones - Malaventura,train,Pop,17,16
+CopperNickle - UncleBibby,val,Electronic,17,16
+Crossing - Los Llamarada,train,Rock,17,16
+Dance Harder - Three Chain Links,test,Electronic,17,16
+Dance of the Martians (SynthStep Edit) - Maxim Kornyshev,train,Electronic,6,5
+Daylight Savings - My brother Daniel,val,Electronic,15,14
+Demolition - Michett,train,Rock,7,6
+Different Day - First,test,Pop,16,15
+Digital Lightning - Cloudkicker,train,Rock,17,16
+Don't want to be your man - Frigg A Go Go (F.A.G.G.),train,Rock,7,6
+Dr Deimos-Scribble - Mizuki's Last Chance/Dr Deimos,train,Electronic,6,5
+Dr. Bodysnatcher - Modey Lemon,train,Rock,6,5
+Dreams - ENDRUDARK,train,Electronic,6,5
+Edge - Mystery Mammal,train,Electronic,16,15
+El Burrito - Malaventura,test,Pop,7,6
+Electric Girlfriend - The Zombie Dandies,train,Rock,7,6
+Empower Thee - vargero,train,Electronic,17,16
+Empty Pockets - Pete Prodoehl,val,Rock,17,16
+End of the Line - H-LR,train,Electronic,7,6
+End titles - Itsensäsyöjät,test,Electronic,6,5
+Endless - The Birth and Death of Silence,train,Electronic,17,16
+Enemy - Modey Lemon,train,Rock,6,5
+Enthalpy - Rolemusic,train,Electronic,6,5
+Evil Cannot Create - Caleb Lemond,val,Pop,17,16
+Eyes Getting Louder - Mod Fun,train,Rock,7,6
+Fear - Los Fancy Free,val,Rock,6,5
+Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,val,Electronic,6,5
+"First Glance - Oh Yeah, the Future",train,Pop,15,14
+Five 40 Derby/Slow Whistle - The Crypts!,train,Rock,7,6
+Flashback - Seclorance,train,Electronic,16,15
+Fleslit - Fleslit,train,Electronic,7,6
+Fly 2 - Andre Jetson,train,Electronic,6,5
+Food and War - Ergo Phizmiz,train,Pop,17,16
+Forest Silence - Serpentarivm,train,Rock,17,16
+Formic Acid for Blood - Punk Rock Opera,train,Rock,17,16
+Four and a Half Tatami - Nihilore,train,Electronic,6,5
+Fridge - Railkid Station,train,Rock,6,5
+Fuckaboing - RoccoW,test,Electronic,17,16
+Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,val,Rock,17,16
+Gloomy Sunday - AmortE,train,Rock,6,5
+"Go On, Then - Jim Rooster",train,Electronic,17,16
+Hahaha - The Moi Non Plus,train,Rock,6,5
+Half a Doubt - Droopies,train,Rock,7,6
+Hammer and a Nail - Vienna Ditto,train,Electronic,17,16
+Happy - Lamprey,train,Rock,6,5
+"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",test,Rock,17,16
+Hisko Detria - Hisko Detria,train,Rock,7,6
+"Hungry - Oh Yeah, the Future",test,Pop,16,15
+I - Inflammator,test,Rock,16,15
+I - Nocturnal Mayhem,train,Rock,17,16
+I Can See Everything - Mod Fun,train,Rock,7,6
+I Close My Eyes - Miss Derringer,train,Rock,7,6
+I Dream So Vividly - Uninhabitable Mansions,train,Rock,17,16
+I Fell - Mod Fun,val,Rock,16,15
+I Know His Blood - Vienna Ditto,train,Electronic,6,5
+I Think From Now On - Caleb Lemond,train,Pop,17,16
+I'm gonna try to reach - Los Llamarada,train,Rock,7,6
+If You're Ther - Nicola Ratti,val,Electronic,6,5
+Improvisation - Broken Chord,train,Electronic,17,16
+Infinite Light - Pipe Choir,train,Rock,17,16
+Insectlaration of Independence - Punk Rock Opera,train,Rock,7,6
+Introduction beats - Itsensäsyöjät,train,Electronic,17,16
+Invaders From Within - Monroeville Music Center,train,Pop,17,16
+It Can't Be Bargained With - Three Chain Links,train,Electronic,6,5
+Jangus (inspired by ToeJam and Earl) - UncleBibby,train,Electronic,17,16
+John the Baby - Ergo Phizmiz,train,Pop,17,16
+Johnny I Lie - The Moi Non Plus,train,Rock,16,15
+KISS my Boots - The Zombie Dandies,train,Rock,7,6
+KOMFORT - voyageurs,train,Rock,17,16
+Key trick - Krisa,train,Electronic,6,5
+Killing Bosses - Gumbel,train,Electronic,6,5
+Kissing Scars - Caleb Lemond,train,Pop,17,16
+Kumorizoranohajimarutokoro - Hosomi,val,Electronic,6,5
+L'arbre - Salmo,test,Rock,6,5
+LIQUID SKULLS - voyageurs,test,Rock,17,16
+La Nina Blanca - Vienna Ditto,train,Electronic,6,5
+"Lackadaisical - Oh Yeah, the Future",train,Pop,16,15
+Lady Love - Parsley Flakes,train,Rock,7,6
+Laika - NGC 1365,train,Electronic,6,5
+Leaving Here - Mod Fun,test,Rock,6,5
+Let You're Body Move - D SMILEZ,test,Electronic,6,5
+Let's Start Out Slow - RoccoW,test,Electronic,6,5
+Let's the kids play - Malaventura,train,Pop,8,7
+Liar Liar Quietly - Vienna Ditto,train,Electronic,6,5
+Liberation is not Easy - Frigg A Go Go (F.A.G.G.),train,Rock,7,6
+Liberosis - Nihilore,train,Electronic,6,5
+Lights Up - Pipe Choir,val,Rock,7,6
+Little Fingers - Vienna Ditto,train,Electronic,6,5
+Lost In The Music (D-Smilez Mix) - D SMILEZ,train,Electronic,5,4
+Lost Paradise - Autumn Interlude,train,Rock,17,16
+Love Dream - The Zombie Dandies,test,Rock,17,16
+Loved Ones - Rowan Box,val,Electronic,6,5
+"Lovedreams - Oh Yeah, the Future",train,Pop,16,15
+Mandrill - Ergo Phizmiz,train,Pop,17,16
+March of the GPA Mechanics - [t]ghost,val,Rock,17,16
+Mettle - Pipe Choir,train,Rock,17,16
+Millitary Industrial Complex - Punk Rock Opera,train,Rock,17,16
+Moja Krypta - AmortE,test,Rock,6,5
+Monkeystage - Ergo Phizmiz,train,Pop,17,16
+Moontime - The IMG,train,Rock,7,6
+Morning Bell - Nihilore,val,Electronic,6,5
+Mosque - Sarin,train,Rock,7,6
+Motocross Mania - Monroeville Music Center,test,Pop,17,16
+Mountain Mist - Modey Lemon,train,Rock,16,15
+Music For an Underground Circu - Ergo Phizmiz,test,Pop,18,17
+My Body Is A Weapon (Compromise Edit) - Silence is full of birds,val,Pop,8,7
+Natron Queen - AmortE,train,Rock,6,5
+Nature Is Over / Defined - Bird Names,train,Pop,18,17
+"New Brave Face - Oh Yeah, the Future",train,Pop,9,8
+New Life (take 1) - Bird Names,val,Pop,19,18
+Niche Dreams - Square People,train,Rock,6,5
+Night Drive - Decktonic,val,Electronic,17,16
+Night Owl - Broke For Free,test,Electronic,17,16
+Noam Chomsky's Corporate Carbohydrate Surprise - Quelle Fromage,train,Electronic,17,16
+Norweigian Wood II - Bird Names,val,Pop,17,16
+Nose - DUSTdevils,train,Rock,17,16
+Nostalgia - Malaventura,train,Pop,7,6
+"November 25, 2007 - Kenneth Kirschner",train,Electronic,13,12
+Nuo Maisemat - Paavoharju,val,Electronic,16,15
+OOOTHERSIDE - Liquid Paper - Mike B. Fort,train,Electronic,17,16
+OOOTHERSIDE - This Time - Mike B. Fort,train,Electronic,17,16
+OST 04 Ship under attack - sawsquarenoise,train,Electronic,17,16
+Ohtli - Seclorance,train,Electronic,17,16
+Okiirobo Navigation System - Henry Homesweet,train,Electronic,17,16
+On My Mind - Ergo Phizmiz,train,Pop,17,16
+One Eyed Ghost/This is gonna be a rough show - The Crypts!,train,Rock,17,16
+Only Instrumental - Broke For Free,train,Electronic,17,16
+Outro - Caleb Lemond,train,Pop,7,6
+Paris - Fleslit,train,Electronic,16,15
+Pista Afuera - Epstein,test,Electronic,17,16
+Polinesia - Malaventura,train,Pop,7,6
+Ponky McFonky - My brother Daniel,train,Electronic,17,16
+Production - Bird Names,test,Pop,7,6
+Promo Mix Vocal Edit (Luv Dub Mix) - Pierlo,train,Electronic,6,5
+Puertas de Fuego - Guerra de Cerdos,test,Rock,7,6
+Reagan Shut Down the Asylums - Punk Rock Opera,train,Rock,7,6
+Realize Me - Jim Rooster,test,Electronic,17,16
+Redlight - Room For A Ghost,val,Rock,7,6
+Resistentialism - Nihilore,test,Electronic,17,16
+Roach-Man - Punk Rock Opera,train,Rock,17,16
+Robocall - Legally Blind,train,Rock,17,16
+Robot Heart - Mystery Mammal,train,Electronic,17,16
+Roland Garros 2048 - Zoliborz,train,Rock,17,16
+Roller Star - Monroeville Music Center,val,Pop,17,16
+Rolling On - Avaren,train,Electronic,6,5
+"Roundtrip - Oh Yeah, the Future",val,Pop,16,15
+Rumble - Railkid Station,train,Rock,6,5
+Running Free - Michett featuring Kalipluche,train,Electronic,17,16
+SD (Ill Mix) - H-LR,val,Electronic,16,15
+Scape from the city - Rolemusic,train,Electronic,6,5
+Scramby Eggs - Andy G. Cohen,val,Rock,17,16
+Sea Monster - The Crypts!,train,Rock,16,15
+Seppuku Bot - Decktonic,train,Electronic,17,16
+Set Fire to Creation - Nihilore,test,Electronic,6,5
+Sfogare Il Dissenso - Deiezione HC,test,Rock,17,16
+Shadow Government - Bird Names,train,Pop,17,16
+She Works / Tepid Waters - Bird Names,test,Pop,18,17
+Sheffield Hall - Andy G. Cohen,train,Rock,7,6
+Shipwrecked Crew - Pete Prodoehl,val,Rock,7,6
+Slot - Neotnas,train,Electronic,6,5
+Slow and Steady - Caleb Lemond,train,Pop,7,6
+Snakefirewalking - Los Llamarada,train,Rock,17,16
+"Snowday - Oh Yeah, the Future",train,Pop,6,5
+Soleares&beats - Malaventura,val,Pop,17,16
+Something Dirty - Ergo Phizmiz,test,Pop,17,16
+Sonzis FM - Pipe Choir,test,Rock,7,6
+Soul of the Demon - Zombie Raiders,train,Rock,17,16
+Space is my pace - Malaventura,train,Pop,7,6
+Spanish BEEEYYAAACHHH - Malaventura,train,Pop,16,15
+Stockholm Syndrome / People Should Be More Aware - Bird Names,val,Pop,18,17
+Stranger - Frigg A Go Go (F.A.G.G.),train,Rock,17,16
+Straw Fields - Rolemusic,train,Electronic,17,16
+Strongbreeze - Rowan Box,train,Electronic,6,5
+Sturgeon's Law - Nihilore,val,Electronic,6,5
+Stuttgart - Portrayal,test,Rock,17,16
+Support Me in This Moment That I'm About To Lose Heart - Nihilore,test,Electronic,6,5
+TTL - Twin Heads,train,Electronic,6,5
+Take It All - Mod Fun,train,Rock,6,5
+Take Your Fingers - Michael Fakesch,train,Electronic,17,16
+Tapes - Gumbel,train,Electronic,16,15
+Tartu Tähän Hetkeen - Paavoharju,train,Electronic,6,5
+Terve Teille - Чокнутый Пропеллер,test,Rock,16,15
+The Adventures Of Roderick Random - Maps And Diagrams,test,Electronic,6,5
+The Big House - Jason Shaw,train,Electronic,17,16
+The Boss - Multifaros,train,Electronic,6,5
+The Cave of Time - Monroeville Music Center,train,Pop,16,15
+The Coldest Winter - Caleb Lemond,train,Pop,17,16
+The Contract - The IMG,train,Rock,17,16
+The Courtyard - Uncle Bibby,train,Electronic,17,16
+The Dawn - The One They Fear,train,Rock,7,6
+The Dream and the Dreamer - Caleb Lemond,train,Pop,17,16
+The Factory - Multifaros,train,Electronic,6,5
+The Front Yard - HarleyLikesMusic,train,Electronic,17,16
+The Monster Mash/Ya Look Fantastic - The Crypts!,train,Rock,7,6
+"The Pursuit of Unintentional Humor - Oh Yeah, the Future",test,Pop,7,6
+The Queen - Malaventura,train,Pop,7,6
+The Race Forever - Monroeville Music Center,train,Pop,17,16
+The Reality Machine - Monroeville Music Center,train,Pop,18,17
+The Sandman - Ergo Phizmiz,train,Pop,7,6
+The Secret Garden - Barbarix,test,Electronic,6,5
+The Stairway - WarpToken,val,Electronic,6,5
+The girl just faded - Los Llamarada,val,Rock,17,16
+The plot - Malaventura,train,Pop,17,16
+Three Bird - My brother Daniel,val,Electronic,6,5
+Time Is Love - Silence is full of birds,val,Pop,17,16
+Time Up - ENDRUDARK,train,Electronic,6,5
+Timen Passing By - Jason Shaw,val,Electronic,6,5
+Topam - Twin Heads,train,Electronic,6,5
+Track 04 - Lightning Bolt,train,Rock,16,15
+Transmit - Lamprey,train,Rock,16,15
+Troubles I've seen - Malaventura,test,Pop,18,17
+Ugh! Humans Can Join - Mystery Mammal,test,Electronic,17,16
+Ugly - Vienna Ditto,train,Electronic,6,5
+Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,val,Electronic,6,5
+Unexpected Little Happenings - UltraCat,train,Electronic,6,5
+Untitled - Fatal Injection,test,Rock,7,6
+Vanishing Horizon - Jason Shaw,train,Electronic,17,16
+Variations - Decktonic,train,Electronic,3,2
+Versailles - Pierce Murphy,train,Rock,7,6
+Voxel - Andy G. Cohen,val,Rock,17,16
+WET DREAMS - voyageurs,train,Rock,7,6
+Wake Up - The Moi Non Plus,train,Rock,6,5
+We Are Canucks - David Blair,train,Pop,17,16
+We Misplaced A Cobra In the Uninhabitable Mansions - Uninhabitable Mansions,train,Rock,7,6
+We Move in Waves - Modey Lemon,train,Rock,16,15
+Westside Chillers - Little Glass Men,val,Electronic,6,5
+When I Was Taller - Dan Deacon,train,Electronic,17,16
+When Will We Ever Learn - Ontayso,train,Electronic,6,5
+Where Is Everything - The Moi Non Plus,test,Rock,16,15
+Who Loves You Dear - Mink Lungs,test,Rock,17,16
+Windows of the Skull (Alternate Version) - Sarin,train,Rock,9,8
+Windows of the Skull - Sarin,val,Rock,15,14
+Wir Werden Gott - Japanische Kampfhorspiele,train,Rock,17,16
+"With the Summer - Oh Yeah, the Future",train,Pop,7,6
+Ynkelig - Die Morgendammerung Des Valhalla,train,Rock,17,16
+Yoko live at FoEG - Emma Acs,train,Pop,17,16
+You Are A Monster - Monroeville Music Center,train,Pop,17,16
+Yurtology - Michett,test,Electronic,6,5
+Z-Saber (feat Jake Allison) - Decktonic,train,Electronic,5,4
+danse macabre - Katapulto,train,Pop,16,15
+gospellioza - Katapulto,train,Pop,16,15
+karaoke megablast - Katapulto,train,Pop,7,6
+kolorowe wody - Katapulto,train,Pop,17,16
+mc trabalenguas - Volumina,train,Pop,17,16
+mystery team 2090 - Jesse Futerman,val,Electronic,17,16
+philcollins takes your hand - Katapulto,train,Pop,17,16
+purity & danger - Katapulto,train,Pop,20,19
+shmoove - epsilon not,train,Electronic,6,5
+some dextromethorphan - Jeva,val,Electronic,6,5
+zero rhythm dollar boy - Katapulto,train,Pop,17,16
+В Наших Сердцах - Чокнутый Пропеллер,val,Rock,6,5
+Глазами Детей - Чокнутый Пропеллер,train,Rock,4,3
+Кортни Лав - Чокнутый Пропеллер,train,Rock,3,2
+Новый Нью-Йорк 2 - Чокнутый Пропеллер,val,Rock,14,13
